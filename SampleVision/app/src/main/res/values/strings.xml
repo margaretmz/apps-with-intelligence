@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SampleVision</string>
+
+    <string name="app_desc">This sample app uses
+        Microsoft Cognitive Services Computer Vision API to describe an image.
+    </string>
+
+    <!-- TODO: Go to https://www.microsoft.com/cognitive-services to get your subscription key for Vision service -->
+    <string name="subscription_key">Please add subscription key!</string>
+
+    <string name="add_image">Add Image</string>
+
+    <!-- Photos -->
+    <string name="action_photo_camera">Take a Photo</string>
+    <string name="action_photo_gallery">Choose from Gallery</string>
+
+</resources>
