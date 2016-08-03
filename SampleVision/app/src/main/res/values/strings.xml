@@ -5,7 +5,7 @@
         Microsoft Cognitive Services Computer Vision API to describe an image.
     </string>
 
-    <!-- TODO: Go to https://www.microsoft.com/cognitive-services to get your subscription key for Vision service -->
+    <!-- TODO: Go to https://www.microsoft.com/cognitive-services to get your subscription key for the Computer Vision service -->
     <string name="subscription_key">Please add subscription key!</string>
 
     <string name="add_image">Add Image</string>
